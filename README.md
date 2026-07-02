@@ -1,3 +1,1 @@
-# cancer-eda
-exploring cancer dataset to tell data stories.
-on the go.
+methodology and pipeline demostration
